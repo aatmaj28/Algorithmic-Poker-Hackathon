@@ -1,12 +1,16 @@
 # 🃏 Algorithmic Poker Bot 🃏
 
-![Poker Cards](https://placeholder.com/400x200)
-![Tournament Play](https://placeholder.com/400x200)
-![Award Ceremony](https://placeholder.com/400x200)
+<p align="center">
+  <img src="Images/PH.png" alt="Home Page" width="75%" />
+</p>
 
 ## 🏆 2nd Place Winner - ACM Algorithmic Poker Event at Northeastern University, Boston
 
 This poker bot secured 2nd place out of 18 competing teams at the Algorithmic Poker Event hosted by ACM at Northeastern University in collaboration with Code4Community and Disrupt. Developed by Aatmaj Salunke and Yaksh Shah, the bot was constructed in just 30 minutes yet implemented sophisticated poker strategies that outperformed most competitors.
+
+<p align="center">
+  <img src="Images/PH-1.jpg" alt="Home Page" width="75%" />
+</p>
 
 ## 🎯 Project Overview
 Our algorithm combines game theory, probability analysis, and strategic decision-making to create an effective poker-playing bot. The competition required bots to make real-time decisions in Texas Hold'em poker games, evaluating hand strength, calculating odds, and making strategic bets against other algorithms.
