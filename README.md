@@ -1,7 +1,7 @@
 # 🃏 Algorithmic Poker Bot 🃏
 
 <p align="center">
-  <img src="Images/PH.png" alt="Home Page" width="75%" />
+  <img src="Images/tabloid_v1_k.svg" alt="Home Page" width="75%" />
 </p>
 
 ## 🏆 2nd Place Winner - ACM Algorithmic Poker Event at Northeastern University, Boston
