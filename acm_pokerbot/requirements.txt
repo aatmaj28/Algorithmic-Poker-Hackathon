@@ -1,0 +1,2 @@
+dotenv==0.9.9
+websocket-client==1.8.0
